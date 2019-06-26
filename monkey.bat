@@ -1,1 +1,0 @@
-adb shell monkey -p -v -s ¨Cignore-crashes ¨C ignore-timeouts>D:/log/monkey.txt
